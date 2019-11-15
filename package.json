@@ -1,0 +1,15 @@
+{
+  "name": "unprotect_concept",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dfb:cp": "node bin/modify_password_dfb.js",
+    "dfb:unlock": "node bin/unlock_dfb.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
