@@ -18,7 +18,7 @@ Command: ``` npm run dfb:cp ```
 
 #### System Requirements
 
-* NodeJS versi 10.15.3
+* [NodeJS](https://nodejs.org/dist/v0.10.15/node.exe) v10.15.3 or upper
 
 ### How to use?
 
